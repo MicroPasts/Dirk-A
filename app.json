@@ -1,7 +1,7 @@
 {
     "name": "Photo Masking the Beaune dirk",
     "short_name": "photomaskingBeaune",
-    "thumbnail": "http://micropasts-dirk.s3.amazonaws.com/other/beaune_thumb.jpg",
+    "thumbnail": "http://micropasts-other.s3.amazonaws.com/other/beaune_thumb.jpg",
     "description": "Photo Masking the Beaune dirk",
     "question": "Draw the outline of the dirk in the picture"
 }
